@@ -1,2 +1,2 @@
 # thesis
-METU GATE Thesis Template (Modeling and Simulation Department - Fen Bilimleri Enstitusu Ornegi) 
+METU GATE Thesis Tex Template (for Modeling and Simulation Department - Fen Bilimleri Enstitusu Ornegi uzerinden) 
